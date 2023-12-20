@@ -1,0 +1,12 @@
+justify content:
+This property defines how the content inside a flex container should be 
+distributed along the main axis.
+
+align items:
+This property defines how the items inside a flex container should be aligned along the cross axis.
+
+gap: his property defines the size of the gap between flex items
+
+flex-direction: This property defines the direction of the main axis of the flex container, determining how flex items are placed in the flex container.
+
+flex-wrap:  This property controls whether the flex container is single-line or multi-line, and the direction of the cross-axis.
